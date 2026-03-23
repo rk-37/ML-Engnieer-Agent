@@ -1,30 +1,3 @@
-<p align="center">
-  <img src="assets/icon.jpg" width="500" alt="MLE-Dojo" />
-</p>
-
-<h1 align="center">
-  MLE-Dojo + GEPA: Adaptive ML Engineering Agents that Learn from Experience
-</h1>
-
-<p align="center" style="font-family:'Segoe UI', Roboto, sans-serif; font-weight:bold; text-transform:uppercase;">
-  <a href="https://arxiv.org/abs/2505.07782">
-    <img src="https://img.shields.io/badge/Arxiv-2505.07782-000000.svg?style=flat-square&logo=arxiv&logoColor=%23FFD700&labelColor=000000" height="28">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://rrk37.github.io/MLE-Dojo-gepa/">
-    <img src="https://img.shields.io/badge/GEPA%20Integration-%20-000000.svg?style=flat-square&logo=Google-Chrome&logoColor=%2300ff88&labelColor=000000" height="28">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mle-dojo.github.io/MLE-Dojo-page/">
-    <img src="https://img.shields.io/badge/Original%20Project-%20-000000.svg?style=flat-square&logo=Google-Chrome&logoColor=%23FFD700&labelColor=000000" height="28">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/spaces/MLE-Dojo/Leaderboard">
-    <img src="https://img.shields.io/badge/Leaderboard-000000.svg?style=flat-square&logo=huggingface&logoColor=%23FFD700&labelColor=000000" height="28">
-  </a>
-</p>
-
----
 
 ## Why ML Engineering Agents?
 
